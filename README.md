@@ -10,17 +10,6 @@ I'm **Jaden Goelkel**, a self-starter passionate about applying **software engin
 
 ---
 
-### What I Do
-
-My work and interests revolve around creating innovative solutions with data and AI:
-
-* **AI-Driven Product Development**: I'm the Founder & CEO of NeuraNote.ai, where I'm leading the development of an AI-driven memory retention platform. This involves full-stack development using **TypeScript, React, Flask, and Python**, alongside designing microservices and implementing advanced **machine learning** and **reinforcement learning** techniques.
-* **Data Engineering**: At SendCutSend, I engineered new **data pipelines** and cleaned complex material usage data using **Python, Pandas**, and **regression models**, unlocking crucial business reporting.
-* **Data Science & Analytics**: As the Founder & Data Scientist at JL Analytics, I've delivered competitive pricing data and analytics, utilizing **Selenium bots** for data extraction and **linear regression algorithms** to inform pricing decisions that improved gross margins by 170 basis points.
-* **Machine Learning & AI Research**: I'm actively building a **Data Science Repository** that explores various machine learning methods and relevant mathematical concepts, complete with explanations and datasets.
-
----
-
 ### My Skills & Technologies
 
 I leverage a robust set of tools and skills:
