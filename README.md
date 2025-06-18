@@ -27,7 +27,7 @@ I leverage a robust set of tools and skills:
 
 I'm always open to collaborating on intriguing projects, discussing cutting-edge technologies, or just chatting about new ideas. Feel free to reach out!
 
-* * <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" align="center" height="20" /> [linkedin.com/in/jadengoelkel/](https://www.linkedin.com/in/jadengoelkel/)
+* <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" align="center" height="20" /> [linkedin.com/in/jadengoelkel/](https://www.linkedin.com/in/jadengoelkel/)
 * <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail" align="center" height="20" /> [jadengoelkel@gmail.com](mailto:jadengoelkel@gmail.com)
 
 
