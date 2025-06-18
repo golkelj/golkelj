@@ -23,21 +23,13 @@ I leverage a robust set of tools and skills:
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golkelj&show_icons=true&theme=radical" alt="Jaden Goelkel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golkelj&theme=radical" alt="Jaden Goelkel's GitHub Streak" />
-</p>
-
----
-
 ### Let's Connect!
 
 I'm always open to collaborating on intriguing projects, discussing cutting-edge technologies, or just chatting about new ideas. Feel free to reach out!
 
-* **LinkedIn**: [linkedin.com/in/jadengoelkel/](https://www.linkedin.com/in/jadengoelkel/)
-* **Email**: [jadengoelkel@gmail.com](mailto:jadengoelkel@gmail.com)
+* * <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" align="center" height="20" /> [linkedin.com/in/jadengoelkel/](https://www.linkedin.com/in/jadengoelkel/)
+* <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail" align="center" height="20" /> [jadengoelkel@gmail.com](mailto:jadengoelkel@gmail.com)
+
 
 ---
 
