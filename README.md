@@ -20,6 +20,4 @@ I'm always open to collaborating on intriguing projects, discussing cutting-edge
 
 ---
 
-### Fun Fact
-
 When I'm not immersed in data and algorithms, you might find me focused on continual learning, exploring health and nutrition, hitting the pavement for a run, weightlifting, enjoying fine dining, or appreciating cars.
