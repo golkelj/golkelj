@@ -1,6 +1,6 @@
 ---
 
-# Welcome to Jaden Goelkel's GitHub Profile! 👋
+# Jaden Goelkel
 
 ---
 
