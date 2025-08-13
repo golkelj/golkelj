@@ -10,19 +10,6 @@ I'm **Jaden Goelkel**, a self-starter passionate about applying **software engin
 
 ---
 
-### My Skills & Technologies
-
-I leverage a robust set of tools and skills:
-
-* **Languages**: Python, SQL, TypeScript, Java, C++
-* **ML/AI Frameworks**: TensorFlow, Keras, OpenCV
-* **Web Development**: React, Flask
-* **Data Science Tools**: Pandas, NumPy, Selenium, Jupyter
-* **Core Concepts**: Supervised & Unsupervised Learning, Regression, Neural Networks, Decision Trees, SVM, Gradient Boosting, Computer Vision, Natural Language Processing (NLP), Large Language Models, AI Agents, Data Cleansing, Exploratory Data Analysis, Statistical Analysis.
-* **Version Control**: Git, GitHub
-
----
-
 ### Let's Connect!
 
 I'm always open to collaborating on intriguing projects, discussing cutting-edge technologies, or just chatting about new ideas. Feel free to reach out!
